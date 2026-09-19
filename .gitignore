@@ -67,3 +67,16 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+.qmake.stash
+.qmake.cache
+
+# Qt Creator settings
+*.autosave
+
+# Carpetas de IDE
+.idea/
+.vscode/
